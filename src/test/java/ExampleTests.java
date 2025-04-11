@@ -1,8 +1,8 @@
 import org.junit.jupiter.api.Test;
 
-public class ExampleTest {
+public class ExampleTests {
     @Test
-    void assertEverythingIsSetupCorrectly() {
+    void everythingIsSetupCorrectly() {
         assert true;
     }
 }
